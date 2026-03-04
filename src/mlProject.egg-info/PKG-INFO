@@ -2,10 +2,10 @@ Metadata-Version: 2.4
 Name: mlProject
 Version: 0.0.0
 Summary: A small python package for ml app
-Home-page: https://github.com/omkorade/End-to-end-NCAA-Project-with-MLflow
-Author: omkorade
-Author-email: omkarkorade550@gmail.com
-Project-URL: Bug Tracker, https://github.com/omkorade/End-to-end-NCAA-Project-with-MLflow/issues
+Home-page: https://github.com/omkarkorde27/mlops
+Author: omkarkorde27
+Author-email: omkarkorde27@gmail.com
+Project-URL: Bug Tracker, https://github.com/omkarkorde27/mlops/issues
 License-File: LICENSE
 Dynamic: author
 Dynamic: author-email
