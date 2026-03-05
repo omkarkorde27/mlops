@@ -1,1 +1,64 @@
 [2026-03-04 15:00:22,716: INFO: main: Welcome to our custom logging]
+[2026-03-05 13:43:46,125: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-05 13:43:46,126: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 13:43:46,127: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 13:43:46,127: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 13:43:46,136: INFO: common: created directory at: artifacts]
+[2026-03-05 13:43:46,136: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 13:43:46,484: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 20042
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "36d18c2ccd75aae01f34c1b89a8acc7d6ee8dfdec147d1114a9fd7173e67c566"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2346:2AC469:442EDA:4E8A57:69A9C671
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 18:43:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100118-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1772736226.437442,VS0,VE42
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9d5c8891734dd0cdf61fdc62f5f41b9646450dc9
+Expires: Thu, 05 Mar 2026 18:48:46 GMT
+Source-Age: 0
+
+]
+[2026-03-05 13:43:46,809: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 32444
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4c88eceac9c85015cec404c7bcb92540b8f2e861f32e3dd276d0ded70640bc43"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DD46:13A26D:477667:51CF51:69A9C671
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 18:43:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100156-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1772736227.741365,VS0,VE52
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0f8581065bfb7c246ae7111f64dc5389ee418f90
+Expires: Thu, 05 Mar 2026 18:48:46 GMT
+Source-Age: 0
+
+]
+[2026-03-05 13:43:46,814: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]

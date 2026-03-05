@@ -3,7 +3,8 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_train_URL: https://github.com/omkarkorde27/NCAA/blob/edabranch/Data/Final_train_dataset.zip
-  source_test_URL: https://github.com/omkarkorde27/NCAA/blob/edabranch/Data/Final_test_dataset.csv.zip
-  local_data_file: artifacts/data_ingestion/data.zip
+  source_train_URL: https://github.com/omkarkorde27/NCAA-train-and-test-data/raw/main/Final_train_dataset.zip
+  source_test_URL: https://github.com/omkarkorde27/NCAA-train-and-test-data/raw/main/Final_test_dataset_.zip
+  train_local_data_file: artifacts/data_ingestion/train_data.zip
+  test_local_data_file: artifacts/data_ingestion/test_data.zip
   unzip_dir: artifacts/data_ingestion
