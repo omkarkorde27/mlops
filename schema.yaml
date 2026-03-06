@@ -1,1 +1,120 @@
-key: val
+TRAIN_COLUMNS:
+  RecordID: object
+  Season: object
+  Team: object
+  Conference: object
+  Overall Seed: float64
+  Bid Type: object
+  NET Rank: float64
+  PrevNET: float64
+  AvgOppNETRank: float64
+  AvgOppNET: float64
+  WL: object
+  Conf.Record: object
+  Non-ConferenceRecord: object
+  RoadWL: object
+  NETSOS: float64
+  NETNonConfSOS: float64
+  Quadrant1: object
+  Quadrant2: object
+  Quadrant3: object
+  Quadrant4: object
+  Wins: float64
+  Losses: float64
+  WinsPct: float64
+  ConfWins: float64
+  ConfLosses: float64
+  ConfWinsPct: float64
+  NonConfWins: float64
+  NonConfLosses: float64
+  NonConfWinsPct: float64
+  RoadWins: float64
+  RoadLosses: float64
+  RoadWinsPct: float64
+  Q1Wins: float64
+  Q1Losses: float64
+  Q1WinsPct: float64
+  Q2Wins: float64
+  Q2Losses: float64
+  Q2WinsPct: float64
+  Q3Wins: float64
+  Q3Losses: float64
+  Q3WinsPct: float64
+  Q4Wins: float64
+  Q4Losses: float64
+  Q4WinsPct: float64
+  WAB: float64
+  BARTHAG: float64
+  ADJOE: float64
+  ADJDE: float64
+  EFG_D: float64
+  ORB: float64
+  Q1WinRatio: float64
+  Q4LossRatio: float64
+  RoadWinRatio: float64
+  ScheduleQuality: float64
+  NonConfScheduleQuality: float64
+  Q1Density: float64
+  Q1Q2WinTotal: float64
+  IsPower5: float64
+
+TEST_COLUMNS:
+  RecordID: object
+  Season: object
+  Team: object
+  Conference: object
+  Bid Type: object
+  NET Rank: float64
+  PrevNET: float64
+  AvgOppNETRank: float64
+  AvgOppNET: float64
+  WL: object
+  Conf.Record: object
+  Non-ConferenceRecord: object
+  RoadWL: object
+  NETSOS: float64
+  NETNonConfSOS: float64
+  Quadrant1: object
+  Quadrant2: object
+  Quadrant3: object
+  Quadrant4: object
+  Wins: float64
+  Losses: float64
+  WinsPct: float64
+  ConfWins: float64
+  ConfLosses: float64
+  ConfWinsPct: float64
+  NonConfWins: float64
+  NonConfLosses: float64
+  NonConfWinsPct: float64
+  RoadWins: float64
+  RoadLosses: float64
+  RoadWinsPct: float64
+  Q1Wins: float64
+  Q1Losses: float64
+  Q1WinsPct: float64
+  Q2Wins: float64
+  Q2Losses: float64
+  Q2WinsPct: float64
+  Q3Wins: float64
+  Q3Losses: float64
+  Q3WinsPct: float64
+  Q4Wins: float64
+  Q4Losses: float64
+  Q4WinsPct: float64
+  Q1WinRatio: float64
+  Q4LossRatio: float64
+  RoadWinRatio: float64
+  ScheduleQuality: float64
+  NonConfScheduleQuality: float64
+  Q1Density: float64
+  Q1Q2WinTotal: float64
+  IsPower5: float64
+  ADJOE: float64
+  ADJDE: float64
+  BARTHAG: float64
+  EFG_D: float64
+  WAB: float64
+
+TARGET_COLUMN:
+  name: Overall Seed

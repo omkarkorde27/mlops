@@ -62,3 +62,391 @@ Source-Age: 0
 [2026-03-05 13:43:46,814: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2026-03-05 14:00:04,953: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-05 14:00:04,954: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 14:00:04,954: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 14:00:04,955: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 14:00:04,955: INFO: common: created directory at: artifacts]
+[2026-03-05 14:00:04,955: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 14:00:05,628: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 20042
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "36d18c2ccd75aae01f34c1b89a8acc7d6ee8dfdec147d1114a9fd7173e67c566"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5FB0:12601:4F2FE8:5B2329:69A9D2B5
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 19:00:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100111-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772737206.559907,VS0,VE49
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5a7f22e2d96d31de871f1517544ed2364caf3e7d
+Expires: Thu, 05 Mar 2026 19:05:05 GMT
+Source-Age: 0
+
+]
+[2026-03-05 14:00:06,134: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 32444
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4c88eceac9c85015cec404c7bcb92540b8f2e861f32e3dd276d0ded70640bc43"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 43C6:1C05:13017C:1664C2:69A9D2B4
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 19:00:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100104-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772737206.052922,VS0,VE68
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3fe49767621c2f0cacebc983fc6f6e1cbf3681f6
+Expires: Thu, 05 Mar 2026 19:05:06 GMT
+Source-Age: 0
+
+]
+[2026-03-05 14:00:06,141: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-05 16:53:32,043: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-05 16:53:32,044: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 16:53:32,045: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:53:32,046: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:53:32,046: INFO: common: created directory at: artifacts]
+[2026-03-05 16:53:32,046: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 16:53:32,795: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Date: Thu, 05 Mar 2026 21:53:32 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With, Sec-Fetch-Site,Accept-Encoding, Accept, X-Requested-With
+x-repository-download: git clone https://github.com/omkarkorde27/NCAA-train-and-test-data.git
+x-raw-download: https://raw.githubusercontent.com/omkarkorde27/NCAA-train-and-test-data/main/Final_train_dataset_same_cols_as_testset.zip
+ETag: W/"95cd6ad6e3bc40f123ee24d83043fd88"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com github.githubassets.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net productionresultssa1.blob.core.windows.net productionresultssa2.blob.core.windows.net productionresultssa3.blob.core.windows.net productionresultssa4.blob.core.windows.net productionresultssa5.blob.core.windows.net productionresultssa6.blob.core.windows.net productionresultssa7.blob.core.windows.net productionresultssa8.blob.core.windows.net productionresultssa9.blob.core.windows.net productionresultssa10.blob.core.windows.net productionresultssa11.blob.core.windows.net productionresultssa12.blob.core.windows.net productionresultssa13.blob.core.windows.net productionresultssa14.blob.core.windows.net productionresultssa15.blob.core.windows.net productionresultssa16.blob.core.windows.net productionresultssa17.blob.core.windows.net productionresultssa18.blob.core.windows.net productionresultssa19.blob.core.windows.net github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com user-images.githubusercontent.com private-user-images.githubusercontent.com opengraph.githubassets.com marketplace-screenshots.githubusercontent.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com secured-user-images.githubusercontent.com private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Server: github.com
+Accept-Ranges: bytes
+Set-Cookie: _gh_sess=YFafh1%2B9TVZET4NtiFyt3k3QGZdt4LfAYsSzT%2B9jAwu%2BZ%2F7lgIkyWADRlN9%2Ba1Ial9mGuIsv%2BwrotVf%2FkaRtNRsjUIfVZHtdOusB4C2dr78EfFU0Z1UEW0%2FR%2BOJJYfsmX95wsSb7JU7lKsYuTf3hR4ficrEZ0%2BglXhFWqKKRb%2FOc4qS8EKP6XRO%2Bh%2B6a08KjK9BG%2FZ%2B%2B3FH1%2BJ2U1Ez5crFm2tnDyt0h%2F0Aq7CVfS34Gw6ZIddu7dknZBnmdJNGEOmY%2Fks6WfrBgflOzNbg%2FCA%3D%3D--2J1sewK2eqjaMTyZ--v7Klr4Rk%2B7LVCFgE5UUK3A%3D%3D; path=/; HttpOnly; secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1736788225.1772747612; expires=Fri, 05 Mar 2027 21:53:32 GMT; domain=.github.com; path=/; secure; SameSite=Lax
+Set-Cookie: logged_in=no; expires=Fri, 05 Mar 2027 21:53:32 GMT; domain=.github.com; path=/; HttpOnly; secure; SameSite=Lax
+X-GitHub-Request-Id: DC52:171AC8:A38BA1:E0EB41:69A9FB5C
+connection: close
+Transfer-Encoding: chunked
+
+]
+[2026-03-05 16:53:33,223: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 32444
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4c88eceac9c85015cec404c7bcb92540b8f2e861f32e3dd276d0ded70640bc43"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7F26:4B5A4:6F6B63:808AD9:69A9FB5C
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 21:53:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100129-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772747613.081699,VS0,VE97
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bfc1cc815ecee7b33e30f4ac965b24170ac5845e
+Expires: Thu, 05 Mar 2026 21:58:33 GMT
+Source-Age: 0
+
+]
+[2026-03-05 16:53:33,224: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "/Users/User/Documents/mlops/main.py", line 10, in <module>
+    obj.main()
+  File "/Users/User/Documents/mlops/src/mlProject/pipeline/stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "/Users/User/Documents/mlops/src/mlProject/components/data_ingestion.py", line 48, in extract_zip_file
+    with zipfile.ZipFile(file, 'r') as zip_ref:
+  File "/opt/homebrew/anaconda3/envs/venv/lib/python3.10/zipfile.py", line 1288, in __init__
+    self._RealGetContents()
+  File "/opt/homebrew/anaconda3/envs/venv/lib/python3.10/zipfile.py", line 1355, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2026-03-05 16:53:47,031: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-05 16:53:47,034: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 16:53:47,035: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:53:47,035: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:53:47,035: INFO: common: created directory at: artifacts]
+[2026-03-05 16:53:47,035: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 16:53:47,035: INFO: data_ingestion: File already exists of size: ~ 216 KB]
+[2026-03-05 16:53:47,035: INFO: data_ingestion: File already exists of size: ~ 32 KB]
+[2026-03-05 16:53:47,036: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "/Users/User/Documents/mlops/main.py", line 10, in <module>
+    obj.main()
+  File "/Users/User/Documents/mlops/src/mlProject/pipeline/stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "/Users/User/Documents/mlops/src/mlProject/components/data_ingestion.py", line 48, in extract_zip_file
+    with zipfile.ZipFile(file, 'r') as zip_ref:
+  File "/opt/homebrew/anaconda3/envs/venv/lib/python3.10/zipfile.py", line 1288, in __init__
+    self._RealGetContents()
+  File "/opt/homebrew/anaconda3/envs/venv/lib/python3.10/zipfile.py", line 1355, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2026-03-05 16:54:08,513: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-03-05 16:54:08,513: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 16:54:08,514: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:54:08,514: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:54:08,514: INFO: common: created directory at: artifacts]
+[2026-03-05 16:54:08,514: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 16:54:09,035: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 27243
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "f2ace148ede6ad88b01346ad3a1168ba5effbd85ef9470de99bdda4a5801fb96"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4FF8:3B64BF:661D7F:775ADD:69A9FB80
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 21:54:08 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100147-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772747649.778947,VS0,VE188
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5fa11a1a6bf7a9868b9a38c71812d11e131099b3
+Expires: Thu, 05 Mar 2026 21:59:08 GMT
+Source-Age: 0
+
+]
+[2026-03-05 16:54:09,188: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 32444
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4c88eceac9c85015cec404c7bcb92540b8f2e861f32e3dd276d0ded70640bc43"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7F26:4B5A4:6F6B63:808AD9:69A9FB5C
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 21:54:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100136-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1772747649.178849,VS0,VE2
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 08f320e0f62f422fc0520be439d4f5191929285f
+Expires: Thu, 05 Mar 2026 21:59:09 GMT
+Source-Age: 36
+
+]
+[2026-03-05 16:54:09,193: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-05 17:36:40,010: INFO: main: >>>>>> Data Ingestion stage started <<<<<<]
+[2026-03-05 17:36:40,011: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 17:36:40,011: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 17:36:40,012: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 17:36:40,012: INFO: common: created directory at: artifacts]
+[2026-03-05 17:36:40,012: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 17:36:40,454: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 26145
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4b60c16c710d50ca78ed21f7dfac7d7628b22f35436c8d949e1e846f192c9a5d"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E2F4:3B1898:747D7B:86E492:69AA0578
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 22:36:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100051-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772750200.275171,VS0,VE165
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2dac5738e549992c452b6dcc33554834511de34e
+Expires: Thu, 05 Mar 2026 22:41:40 GMT
+Source-Age: 0
+
+]
+[2026-03-05 17:36:40,790: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 33852
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "2835df3d554f54d05aec28dcd186e23038a6e35f25160581d3ba4b5351ae6411"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D8E8:2BFF98:776DE6:89DAFB:69AA0578
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 22:36:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100168-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772750201.690648,VS0,VE91
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 755078a6225cdc5144b16c7bd2660a13e7ff2f18
+Expires: Thu, 05 Mar 2026 22:41:40 GMT
+Source-Age: 0
+
+]
+[2026-03-05 17:36:40,793: INFO: main: >>>>>> Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-05 17:55:43,108: INFO: main: >>>>>> Data Ingestion stage started <<<<<<]
+[2026-03-05 17:55:43,109: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 17:55:43,109: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 17:55:43,112: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 17:55:43,112: INFO: common: created directory at: artifacts]
+[2026-03-05 17:55:43,113: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 17:55:43,614: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 25919
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "a4399862be1a5302a88469cd547fecfc51eaeab45a1c8a6e302dddb24b716f6d"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 54D6:1A57DC:C1B7:E1CE:69AA09EF
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 22:55:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100101-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772751343.417614,VS0,VE101
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8da9a6d55f3cf699bad04876ba684cc7789ac28a
+Expires: Thu, 05 Mar 2026 23:00:43 GMT
+Source-Age: 0
+
+]
+[2026-03-05 17:55:43,894: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 33852
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "2835df3d554f54d05aec28dcd186e23038a6e35f25160581d3ba4b5351ae6411"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D8E8:2BFF98:776DE6:89DAFB:69AA0578
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 22:55:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100130-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1772751344.823101,VS0,VE62
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e8327f53e164f7a11b31da1e656a3390fed72514
+Expires: Thu, 05 Mar 2026 23:00:43 GMT
+Source-Age: 0
+
+]
+[2026-03-05 17:55:43,897: INFO: main: >>>>>> Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-05 18:57:28,437: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 18:57:28,441: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 18:57:28,446: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 18:57:28,447: INFO: common: created directory at: artifacts]
+[2026-03-05 18:57:28,447: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 18:58:08,783: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 18:58:08,785: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 18:58:08,793: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 18:58:08,794: INFO: common: created directory at: artifacts]
+[2026-03-05 18:58:08,795: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 19:00:52,330: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:00:52,332: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:00:52,340: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:00:52,341: INFO: common: created directory at: artifacts]
+[2026-03-05 19:00:52,341: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 19:09:10,185: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:09:10,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:09:10,193: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:09:10,194: INFO: common: created directory at: artifacts]
+[2026-03-05 19:09:10,195: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 19:10:00,805: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:10:00,807: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:10:00,815: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:10:00,816: INFO: common: created directory at: artifacts]
+[2026-03-05 19:10:00,816: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 19:13:56,280: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:13:56,283: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:13:56,293: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:13:56,295: INFO: common: created directory at: artifacts]
+[2026-03-05 19:13:56,296: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-05 19:14:34,947: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:14:34,949: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:14:34,957: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:14:34,958: INFO: common: created directory at: artifacts]
+[2026-03-05 19:14:34,958: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-05 19:17:03,454: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:17:03,456: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:17:03,465: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:17:03,466: INFO: common: created directory at: artifacts]
+[2026-03-05 19:17:03,467: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-05 19:17:26,738: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-05 19:17:26,741: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:17:26,751: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:17:26,753: INFO: common: created directory at: artifacts]
+[2026-03-05 19:17:26,753: INFO: common: created directory at: artifacts/data_validation]

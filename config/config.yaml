@@ -4,7 +4,14 @@ artifacts_root: artifacts
 data_ingestion:
   root_dir: artifacts/data_ingestion
   source_train_URL: https://github.com/omkarkorde27/NCAA-train-and-test-data/raw/main/Final_train_dataset.zip
-  source_test_URL: https://github.com/omkarkorde27/NCAA-train-and-test-data/raw/main/Final_test_dataset_.zip
+  source_test_URL: https://github.com/omkarkorde27/NCAA-train-and-test-data/raw/main/Final_test_dataset.zip
   train_local_data_file: artifacts/data_ingestion/train_data.zip
   test_local_data_file: artifacts/data_ingestion/test_data.zip
   unzip_dir: artifacts/data_ingestion
+
+
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_train_data_dir: artifacts/data_ingestion/Final_train_dataset.csv
+  unzip_test_data_dir: artifacts/data_ingestion/Final_test_dataset.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
