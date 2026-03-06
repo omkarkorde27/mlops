@@ -450,3 +450,295 @@ x==========x]
 [2026-03-05 19:17:26,751: INFO: common: yaml file: schema.yaml loaded successfully]
 [2026-03-05 19:17:26,753: INFO: common: created directory at: artifacts]
 [2026-03-05 19:17:26,753: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:05:02,933: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:05:02,938: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:05:02,948: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:05:02,950: INFO: common: created directory at: artifacts]
+[2026-03-06 17:05:02,951: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:13:52,426: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:13:52,428: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:13:52,435: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:13:52,435: INFO: common: created directory at: artifacts]
+[2026-03-06 17:13:52,436: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:15:27,307: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:15:27,310: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:15:27,319: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:15:27,321: INFO: common: created directory at: artifacts]
+[2026-03-06 17:15:27,321: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:18:57,104: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:18:57,106: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:18:57,114: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:18:57,116: INFO: common: created directory at: artifacts]
+[2026-03-06 17:18:57,117: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:21:59,064: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:21:59,066: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:21:59,073: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:21:59,075: INFO: common: created directory at: artifacts]
+[2026-03-06 17:21:59,076: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:26:38,366: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:26:38,368: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:26:38,377: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:26:38,378: INFO: common: created directory at: artifacts]
+[2026-03-06 17:26:38,378: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:27:28,553: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:27:28,554: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:27:28,561: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:27:28,562: INFO: common: created directory at: artifacts]
+[2026-03-06 17:27:28,562: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:28:39,413: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:28:39,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:28:39,421: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:28:39,421: INFO: common: created directory at: artifacts]
+[2026-03-06 17:28:39,422: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:28:51,942: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:28:51,944: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:28:51,950: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:28:51,950: INFO: common: created directory at: artifacts]
+[2026-03-06 17:28:51,951: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:29:09,710: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:29:09,712: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:29:09,721: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:29:09,722: INFO: common: created directory at: artifacts]
+[2026-03-06 17:29:09,723: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:30:38,594: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:30:38,596: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:30:38,603: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:30:38,604: INFO: common: created directory at: artifacts]
+[2026-03-06 17:30:38,605: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:30:48,572: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:30:48,574: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:30:48,581: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:30:48,582: INFO: common: created directory at: artifacts]
+[2026-03-06 17:30:48,583: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:31:02,722: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:31:02,724: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:31:02,730: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:31:02,731: INFO: common: created directory at: artifacts]
+[2026-03-06 17:31:02,732: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 17:32:00,370: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 17:32:00,372: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 17:32:00,378: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 17:32:00,379: INFO: common: created directory at: artifacts]
+[2026-03-06 17:32:00,380: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 18:04:34,516: INFO: main: >>>>>> Data Ingestion stage started <<<<<<]
+[2026-03-06 18:04:34,516: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:04:34,517: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:04:34,520: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:04:34,520: INFO: common: created directory at: artifacts]
+[2026-03-06 18:04:34,520: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-06 18:04:34,520: INFO: data_ingestion: File already exists of size: ~ 25 KB]
+[2026-03-06 18:04:34,520: INFO: data_ingestion: File already exists of size: ~ 33 KB]
+[2026-03-06 18:04:34,524: INFO: main: >>>>>> Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-06 18:04:34,524: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-03-06 18:04:34,524: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:04:34,525: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:04:34,528: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:04:34,528: INFO: common: created directory at: artifacts]
+[2026-03-06 18:04:34,528: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 18:04:34,528: ERROR: main: 'DataValidation' object has no attribute 'validate_all_columns']
+Traceback (most recent call last):
+  File "/Users/User/Documents/mlops/main.py", line 21, in <module>
+    data_validation.main()
+  File "/Users/User/Documents/mlops/src/mlProject/pipeline/stage_02_data_validation.py", line 15, in main
+    data_validation.validate_all_columns()
+AttributeError: 'DataValidation' object has no attribute 'validate_all_columns'
+[2026-03-06 18:09:57,595: INFO: main: >>>>>> Data Ingestion stage started <<<<<<]
+[2026-03-06 18:09:57,596: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:09:57,597: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:09:57,600: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:09:57,601: INFO: common: created directory at: artifacts]
+[2026-03-06 18:09:57,601: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-06 18:09:57,991: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 25919
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "a4399862be1a5302a88469cd547fecfc51eaeab45a1c8a6e302dddb24b716f6d"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1E5E:1BA0CB:D03BC:102DC6:69AB5EC5
+Accept-Ranges: bytes
+Date: Fri, 06 Mar 2026 23:09:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100027-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772838598.871480,VS0,VE109
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 972271cc1e0549095a6567201eaa6526ac6679ab
+Expires: Fri, 06 Mar 2026 23:14:57 GMT
+Source-Age: 0
+
+]
+[2026-03-06 18:09:58,304: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 33852
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "2835df3d554f54d05aec28dcd186e23038a6e35f25160581d3ba4b5351ae6411"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9A7C:33BB9C:DACD1:10D2F5:69AB5EC5
+Accept-Ranges: bytes
+Date: Fri, 06 Mar 2026 23:09:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100109-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772838598.219549,VS0,VE77
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5ab303402b4795752dc379a8ec12f46a7367e40a
+Expires: Fri, 06 Mar 2026 23:14:58 GMT
+Source-Age: 0
+
+]
+[2026-03-06 18:09:58,306: INFO: main: >>>>>> Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-06 18:10:28,140: INFO: main: >>>>>> Data Ingestion stage started <<<<<<]
+[2026-03-06 18:10:28,141: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:10:28,142: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:10:28,145: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:10:28,145: INFO: common: created directory at: artifacts]
+[2026-03-06 18:10:28,145: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-06 18:10:28,284: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 25919
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "a4399862be1a5302a88469cd547fecfc51eaeab45a1c8a6e302dddb24b716f6d"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1E5E:1BA0CB:D03BC:102DC6:69AB5EC5
+Accept-Ranges: bytes
+Date: Fri, 06 Mar 2026 23:10:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100144-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1772838628.278505,VS0,VE2
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c58d046743385c75e06025b30c63ae2ab22e8b2c
+Expires: Fri, 06 Mar 2026 23:15:28 GMT
+Source-Age: 30
+
+]
+[2026-03-06 18:10:28,419: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 33852
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "2835df3d554f54d05aec28dcd186e23038a6e35f25160581d3ba4b5351ae6411"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9A7C:33BB9C:DACD1:10D2F5:69AB5EC5
+Accept-Ranges: bytes
+Date: Fri, 06 Mar 2026 23:10:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100020-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1772838628.411753,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 24845f447e76fb198a3e60d5b4dfcf49412532d0
+Expires: Fri, 06 Mar 2026 23:15:28 GMT
+Source-Age: 30
+
+]
+[2026-03-06 18:10:28,422: INFO: main: >>>>>> Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-06 18:10:44,318: INFO: main: >>>>>> Data Ingestion stage started <<<<<<]
+[2026-03-06 18:10:44,319: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:10:44,319: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:10:44,322: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:10:44,323: INFO: common: created directory at: artifacts]
+[2026-03-06 18:10:44,323: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-06 18:10:44,625: INFO: data_ingestion: artifacts/data_ingestion/train_data.zip download! with following info: 
+Connection: close
+Content-Length: 25919
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "a4399862be1a5302a88469cd547fecfc51eaeab45a1c8a6e302dddb24b716f6d"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1E5E:1BA0CB:D03BC:102DC6:69AB5EC5
+Accept-Ranges: bytes
+Date: Fri, 06 Mar 2026 23:10:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100026-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1772838645.617302,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fc84bba68dbb33f154b46ea97a8e6495f8104755
+Expires: Fri, 06 Mar 2026 23:15:44 GMT
+Source-Age: 47
+
+]
+[2026-03-06 18:10:44,853: INFO: data_ingestion: artifacts/data_ingestion/test_data.zip download! with following info: 
+Connection: close
+Content-Length: 33852
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "2835df3d554f54d05aec28dcd186e23038a6e35f25160581d3ba4b5351ae6411"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9A7C:33BB9C:DACD1:10D2F5:69AB5EC5
+Accept-Ranges: bytes
+Date: Fri, 06 Mar 2026 23:10:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100143-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1772838645.844602,VS0,VE2
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7c832c3fcea0b970bc7b8c81c1d5e6c5ad2828dc
+Expires: Fri, 06 Mar 2026 23:15:44 GMT
+Source-Age: 47
+
+]
+[2026-03-06 18:10:44,858: INFO: main: >>>>>> Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-03-06 18:10:44,858: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-03-06 18:10:44,860: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:10:44,861: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:10:44,874: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:10:44,875: INFO: common: created directory at: artifacts]
+[2026-03-06 18:10:44,875: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 18:10:44,883: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]

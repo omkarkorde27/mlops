@@ -351,3 +351,18 @@ Expires: Thu, 05 Mar 2026 18:12:46 GMT
 Source-Age: 0
 
 ]
+[2026-03-06 18:08:51,870: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:08:51,872: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:08:51,881: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:08:51,882: INFO: common: created directory at: artifacts]
+[2026-03-06 18:08:51,883: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 18:09:18,327: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:09:18,328: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:09:18,337: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:09:18,337: INFO: common: created directory at: artifacts]
+[2026-03-06 18:09:18,338: INFO: common: created directory at: artifacts/data_validation]
+[2026-03-06 18:10:05,675: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-03-06 18:10:05,678: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-06 18:10:05,682: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-06 18:10:05,683: INFO: common: created directory at: artifacts]
+[2026-03-06 18:10:05,683: INFO: common: created directory at: artifacts/data_validation]
